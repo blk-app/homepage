@@ -1,0 +1,32 @@
+# Main Title
+main:
+  header:
+    title : "bLk App" # Title Text
+    description : "Startup de gerrefereinciamento" # Title Desc
+    button:
+      text: "Saiba Mais" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "Sobre nós"
+  desc: "A BLK é uma empresa de engenharia que combina vida real e tecnologia para oferecer soluções eficientes ao mercado. Com sócios experientes, nossa equipe trabalha em estreita colaboração com os clientes, desenvolvendo soluções personalizadas e de alta qualidade. Nosso compromisso é superar expectativas, buscando constantemente a excelência e aprimorando nossos processos para entregar resultados excepcionais."
+  button:
+    enable: true
+    text: "Projetos"
+    url: "#projects"
+  image: "assets/img/demo-image-02.jpg"
+
+projects:
+  # card1:
+  #   title: "Dados"
+  #   text: "Fazemos análise de dados gerreferenciados."
+  #   img: "assets/img/buildings-s.png"
+  card2:
+    title: "Georreferenciamento"
+    text: "Trabalhamos com georreferencimento da sua area para regularização."
+    img: "assets/img/geojson-s.png"
+  card3:
+    title: "Operação"
+    text: "Trabalho em campo para garantir uma maior acurácia."
+    img: "assets/img/drone.png"
