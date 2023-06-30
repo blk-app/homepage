@@ -1,5 +1,6 @@
 # Main Title
 main:
+  logo: "assets/logo_color.svg"
   header:
     title : "bLk" # Title Text
     description : "Startup de georrefereinciamento" # Title Desc
