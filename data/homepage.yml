@@ -3,7 +3,7 @@ main:
   logo: "assets/logo_color.svg"
   header:
     title : "bLk" # Title Text
-    description : "Startup de georrefereinciamento" # Title Desc
+    description : "Startup de georreferenciamento" # Title Desc
     button:
       text: "Saiba Mais" # Button Text
       url: "#about" # Button URL
@@ -21,7 +21,7 @@ about:
 projects:
   card1:
     title: "Georreferenciamento"
-    text: "Trabalhamos com georreferencimento da sua area para regularização."
+    text: "Trabalhamos com georreferenciamento da sua area para regularização."
     img: "assets/img/colorfull-map.jpg"
   card2:
     title: "Dados"
