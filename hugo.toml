@@ -1,7 +1,7 @@
 baseURL = 'http://bkp.app.br/'
 languageCode = 'pt-br'
 theme = 'graysx'
-title = 'BKP Georreferenciamento'
+title = 'BLK Georreferenciamento'
 
 ## Site Settings
 [params]
