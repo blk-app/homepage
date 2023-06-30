@@ -1,18 +1,23 @@
 baseURL = 'http://bkp.app.br/'
 languageCode = 'pt-br'
 theme = 'graysx'
-title = 'BKP Georreferenciamento'
+title = 'BLK Georreferenciamento'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.png"
-favicon = "assets/favicon.png"
+logo = "assets/logo_nav.svg"
+favicon = "assets/favicon.svg"
 
 # Info
 address = "Av. Nove de Julho, 685"
 address2 = "São José dos Campos-SP"
 email = "contato@blk.app.br"
-phone = "+55 12 99799-2306"
+phone1 = "Fernando (Operações)"
+phoneNumber1 = "5512981856229"
+phoneNumberSimplified1 = "(12) 98185-6229"
+phone2 = "Pedro (Tecnologia)"
+phoneNumber2 = "5512997992306"
+phoneNumberSimplified2 = "(12) 99799-2306"
 
 # Socials
 linkedin = "https://www.linkedin.com/company/blk-mng"
@@ -34,5 +39,5 @@ whatsapp = "https://wa.me/5512997992306"
 
   [[menu.main]]
   name = "Contato"
-  URL = "#signup"
+  URL = "#contact"
   weight = 3

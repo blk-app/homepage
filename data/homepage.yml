@@ -1,8 +1,9 @@
 # Main Title
 main:
+  logo: "assets/logo_color.svg"
   header:
-    title : "bLk App" # Title Text
-    description : "Startup de gerrefereinciamento" # Title Desc
+    title : "bLk" # Title Text
+    description : "Startup de georrefereinciamento" # Title Desc
     button:
       text: "Saiba Mais" # Button Text
       url: "#about" # Button URL
@@ -15,18 +16,18 @@ about:
     enable: true
     text: "Projetos"
     url: "#projects"
-  image: "assets/img/demo-image-02.jpg"
+  image: "assets/img/about.jpg"
 
 projects:
-  # card1:
-  #   title: "Dados"
-  #   text: "Fazemos análise de dados gerreferenciados."
-  #   img: "assets/img/buildings-s.png"
-  card2:
+  card1:
     title: "Georreferenciamento"
     text: "Trabalhamos com georreferencimento da sua area para regularização."
+    img: "assets/img/colorfull-map.jpg"
+  card2:
+    title: "Dados"
+    text: "Fazemos análise de dados gerreferenciados."
     img: "assets/img/geojson-s.png"
   card3:
     title: "Operação"
     text: "Trabalho em campo para garantir uma maior acurácia."
-    img: "assets/img/drone.png"
+    img: "assets/img/drone.jpg"
