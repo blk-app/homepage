@@ -4,6 +4,7 @@ theme = 'graysx'
 title = 'BLK Georreferenciamento'
 
 ## Site Settings
+assetDir = "assets"
 [params]
 logo = "assets/logo_nav.svg"
 favicon = "assets/favicon.svg"
