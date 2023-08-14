@@ -42,3 +42,8 @@ whatsapp = "https://wa.me/5512997992306"
   name = "Contato"
   URL = "#contact"
   weight = 3
+
+  [[menu.main]]
+  name = "Login"
+  URL = "https://odm.blk.app.br/"
+  weight = 4
