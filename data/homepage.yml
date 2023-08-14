@@ -24,9 +24,9 @@ projects:
     text: "Trabalhamos com georreferenciamento da sua area para regularização."
     img: "assets/img/colorfull-map.jpg"
   card2:
-    title: "Dados"
-    text: "Fazemos análise de dados gerreferenciados."
-    img: "assets/img/geojson-s.png"
+    title: "Mapas 3d"
+    text: "Geração de mapas 3d através de levantamento com drone."
+    img: "assets/img/gif-odm-matarazzo.gif"
   card3:
     title: "Operação"
     text: "Trabalho em campo para garantir uma maior acurácia."
