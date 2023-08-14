@@ -26,7 +26,7 @@ projects:
   card2:
     title: "Mapas 3d"
     text: "Geração de mapas 3d através de levantamento com drone."
-    img: "assets/img/gif-odm-matarazzo.gif"
+    img: "assets/img/gif-odm.gif"
   card3:
     title: "Operação"
     text: "Trabalho em campo para garantir uma maior acurácia."
