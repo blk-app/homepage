@@ -3,7 +3,7 @@ main:
   logo: "assets/logo_color.svg"
   header:
     title : "bLk" # Title Text
-    description : "Startup de georreferenciamento" # Title Desc
+    description : "Georreferenciamento com drone" # Title Desc
     button:
       text: "Saiba Mais" # Button Text
       url: "#about" # Button URL
@@ -21,11 +21,11 @@ about:
 projects:
   card1:
     title: "Georreferenciamento"
-    text: "Trabalhamos com georreferenciamento da sua area para regularização."
+    text: "Mapeamos a sua area, trazendo mais visibilidade e precisão para o seu projeto."
     img: "assets/img/colorfull-map.jpg"
   card2:
     title: "Mapas 3d"
-    text: "Geração de mapas 3d através de levantamento com drone."
+    text: "Geração de mapas 3d, mapas de superfície e ortomosáicos através de levantamento com drone."
     img: "assets/img/gif-odm.gif"
   card3:
     title: "Operação"
