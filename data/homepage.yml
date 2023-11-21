@@ -3,7 +3,7 @@ main:
   logo: "assets/logo_color.svg"
   header:
     title : "bLk" # Title Text
-    description : "Georreferenciamento com drone" # Title Desc
+    description : "Aerolevantamento com drone" # Title Desc
     button:
       text: "Saiba Mais" # Button Text
       url: "#about" # Button URL
@@ -20,7 +20,7 @@ about:
 
 projects:
   card1:
-    title: "Georreferenciamento"
+    title: "Aerolevantamento"
     text: "Mapeamos a sua area, trazendo mais visibilidade e precisão para o seu projeto."
     img: "assets/img/colorfull-map.jpg"
   card2:
