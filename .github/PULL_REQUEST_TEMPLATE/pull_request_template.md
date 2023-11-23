@@ -1,3 +1,6 @@
+# Title
+<!-- Keep it short and action-oriented -->
+
 ## Issue/Motivation
 <!-- Describe what the task involves and why it is important. Explain the context and any specific issues that motivated the creation of this task -->
 
@@ -22,4 +25,21 @@
 - [ ] Breaking changes
 - [ ] Deployed to production
 
+
+```[tasklist]
+## Blocked by
+- [ ] blocker 1
+- [ ] blocker 2
+- [ ] blocker 3
+```
+
+
+```[tasklist]
+## Sub-tasks
+- [ ] sub-task 1
+- [ ] sub-task 2
+- [ ] sub-task 3
+```
+
+## Risks
 <!-- What changes might users need to make in their application due to this PR? -->
