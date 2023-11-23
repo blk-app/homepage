@@ -19,6 +19,12 @@ BLK Gestão Empresarial Ltda
 - **Inscrição Municipal:** 407478
 - **Endereço:** Av. Nove de Julho, 685, Sala 53 - Jardim Apolo São José dos Campos - SP, 12243-000.
 
+## Dados de Pagamento
+- **PIX (CNPJ):** 37.814.104.0001/40
+- **Banco Inter (077)**
+    - Agência: 0001
+    - Número da Conta: 7349341-4
+
 ## Endereço de entrega
 
 ### Escritório Administrativo
