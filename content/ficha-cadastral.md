@@ -22,8 +22,8 @@ BLK Gestão Empresarial Ltda
 ## Dados de Pagamento
 - **PIX (CNPJ):** 37.814.104.0001/40
 - **Banco Inter (077)**
-    - Agência: 0001
-    - Número da Conta: 7349341-4
+    - **Agência:** 0001
+    - **Número da Conta:** 7349341-4
 
 ## Endereço de entrega
 
