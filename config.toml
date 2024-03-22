@@ -17,7 +17,7 @@ phoneNumber = "5512988062737"
 phoneNumberSimplified = "(12) 98806-2737"
 
 # Socials
-linkedin = "https://www.linkedin.com/company/blk-mng"
+linkedin = "https://www.linkedin.com/company/blk-aero"
 instagram = "https://www.instagram.com/blk.aero"
 github = "https://github.com/blk-app"
 whatsapp = "https://wa.me/5512988062737"
@@ -40,8 +40,8 @@ whatsapp = "https://wa.me/5512988062737"
   weight = 3
 
   [[menu.main]]
-  name = "Login"
-  URL = "https://hub.blk.app.br/"
+  name = "WhatsApp"
+  URL = "https://wa.me/5512988062737"
   weight = 4
 
 # Show Google Slides
