@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BLK Aerolevantamento</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BLK Aerolevantamento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ficha Cadastral</title>
+      <link>http://localhost:1313/ficha-cadastral/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ficha-cadastral/</guid>
+      <description>Contato Email para Nota Fiscal e Cobrança:&#xA;contato@blk.app.br&#xA;Dados de Faturamento BLK Gestão Empresarial Ltda&#xA;CNPJ: 37.814.104.0001/40 Inscrição Estadual: 125.279.375-118 Inscrição Municipal: 407478 Endereço: Av. Nove de Julho, 685, Sala 53 - Jardim Apolo São José dos Campos - SP, 12243-000. Dados de Pagamento PIX (CNPJ): 37.814.104.0001/40 Banco Inter (077) Agência: 0001 Número da Conta: 7349341-4 Endereço de entrega Escritório Administrativo Condomínio Profissional Center Av. Dr. Ademar de Barros, 566, Sala 1310 - Vila Adyana</description>
+    </item>
+    <item>
+      <title>Apresentação Comercial</title>
+      <link>http://localhost:1313/apre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apre/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>
