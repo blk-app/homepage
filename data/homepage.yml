@@ -3,7 +3,7 @@ main:
   logo: "assets/logo_color.svg"
   header:
     title : "bLk" # Title Text
-    description : "Aerolevantamento com drone" # Title Desc
+    description : "Topografia e Aerolevantamento com drone" # Title Desc
     button:
       text: "Saiba Mais" # Button Text
       url: "#about" # Button URL
@@ -14,20 +14,21 @@ about:
   desc: "A BLK é uma empresa de engenharia que combina vida real e tecnologia para oferecer soluções eficientes ao mercado. Com sócios experientes, nossa equipe trabalha em estreita colaboração com os clientes, desenvolvendo soluções personalizadas e de alta qualidade. Nosso compromisso é superar expectativas, buscando constantemente a excelência e aprimorando nossos processos para entregar resultados excepcionais."
   button:
     enable: true
-    text: "Projetos"
-    url: "#projects"
-  image: "assets/img/about.jpg"
+    text: "Ministério da Defesa"
+    url: "https://www.gov.br/defesa/pt-br/assuntos/aerolevantamento"
+  # image: "assets/img/about.jpg"
 
-projects:
-  card1:
-    title: "Aerolevantamento"
-    text: "Mapeamos a sua area, trazendo mais visibilidade e precisão para o seu projeto."
-    img: "assets/img/colorfull-map.jpg"
-  card2:
-    title: "Mapas 3d"
+intro :
+  title: "Aerolevantamento"
+  text: "Mapeamos a sua area, trazendo mais visibilidade e precisão para o seu projeto."
+  videoID: "kLgHqpITECU"
+  img: "assets/img/colorfull-map.jpg"
+
+products:
+  - title: "Mapas 3d"
     text: "Geração de mapas 3d, mapas de superfície e ortomosáicos através de levantamento com drone."
     img: "assets/img/gif-odm.gif"
-  card3:
-    title: "Operação"
+  - title: "Operação"
     text: "Trabalho em campo para garantir uma maior acurácia."
     img: "assets/img/drone.jpg"
+
