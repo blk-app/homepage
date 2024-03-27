@@ -11725,20 +11725,16 @@ body {
     position: fixed;
     width: 60px;
     height: 60px;
-    bottom: 10px;
-    right: 10px;
-    background-color: transparent; /* Make background transparent */
+    bottom: 40px;
+    right: 20px;
+    background-color: transparent;
     color: 25d366;
-    border-radius: 50px;
+    border-radius: 100px;
     text-align: center;
-    font-size: 48px;
+    font-size: 60px;
     z-index: 100;
-    box-shadow: none; /* Remove shadow for a cleaner look */
-    display: flex; /* Use flexbox for centering the icon */
-    justify-content: center; /* Center icon horizontally */
-    align-items: center; /* Center icon vertically */
-
-}
-.floating i {
-    margin: 16px; /* Reset margin to ensure icon is properly centered */
+    box-shadow: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
